@@ -5,7 +5,14 @@ PyVF is an open-source program to extract significant vertical features (VFs) fr
 ## Definition
 Vertical features are raised linear features such as roadbeds, railroads, levees, floodwalls, and natural features that alter the path of inundation (Bilskie et al., 2015).
 
-##Flowchart
+## Flowchart
+![image](https://github.com/ShuGao7/PyVF/blob/master/flowchart.png)
+
+### Target Recognition
+This process traversed each DEM cell and extracted all potential VF raster cells (i.e., high enough) based on terrain analysis for each DEM cell in eight directions by a iterative increasing size moving window method.
+
+### Target Delineation
+This process is to covert the potential VF raster cells into polyline combined with hydrologic analysis.
 
 
 ## Reference
