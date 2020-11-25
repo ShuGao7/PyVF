@@ -1,4 +1,4 @@
-# PyVF
+# PyVF [![DOI](https://zenodo.org/badge/316038076.svg)](https://zenodo.org/badge/latestdoi/316038076)
 
 PyVF is an open-source program to extract significant vertical features (VFs) from a high-resolution, bare-earth LiDAR-DEM automatically.
 
@@ -18,4 +18,4 @@ This process is to covert the potential VF raster cells into polyline combined w
 ## Reference
 Bilskie, M. V., Coggin, D., Hagen, S. C., & Medeiros, S. C. (2015). Terrain-driven unstructured mesh development through semi-automatic vertical feature extraction. Advances in Water Resources, 86, 102-118. doi:https://doi.org/10.1016/j.advwat
 
-[![DOI](https://zenodo.org/badge/316038076.svg)](https://zenodo.org/badge/latestdoi/316038076)
+
