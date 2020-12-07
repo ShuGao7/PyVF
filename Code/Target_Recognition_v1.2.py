@@ -1,5 +1,5 @@
 __author__ = 'Shu Gao'
-# Target Recongination Loop Method
+# Target Recongnation Loop Method
 #########################import modeules##########################
 import arcpy,os, fnmatch
 from arcpy import env
