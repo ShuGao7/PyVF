@@ -35,7 +35,7 @@ def PreP_Fishnet(inWorkspace,inTile, name):
         outExtractByMask=ExtractByMask(inRas,Mask)
         outExtractByMask.save(outRas)
         arcpy.BuildPyramids_management(outRas)
-        message="Finish the"+"\b"+total_count+"\b"+"tile"
+        message="Finish the "+total_count+" tile"
         print(message)
         count=count+1
         total_count=str(count)
