@@ -17,6 +17,7 @@ This process is to covert the potential VF raster cells into polyline combined w
 
 ## Reference
 Bilskie, M. V., Coggin, D., Hagen, S. C., & Medeiros, S. C. (2015). Terrain-driven unstructured mesh development through semi-automatic vertical feature extraction. Advances in Water Resources, 86, 102-118. doi:https://doi.org/10.1016/j.advwat
+
 Shu Gao, Matthew V. Bilskie, Scott C. Hagen. (2022). PyVF: A python program for extracting vertical features from LiDAR-DEMs, Environmental Modelling & Software,Volume 157,doi:https://doi.org/10.1016/j.envsoft.2022.105503.
 
 
